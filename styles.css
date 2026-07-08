@@ -227,3 +227,32 @@ footer{ padding:110px 0 60px; }
   .cs-nav{ flex-direction:column; gap:24px; }
   .cs-nav a.next{ text-align:left; align-items:flex-start; }
 }
+/* ==========================================================
+   PORTFOLIO : FIGURES & IMAGES
+   ========================================================== */
+
+/* Keeps the image responsive and crisp */
+.responsive-img {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px; 
+  margin-bottom: 8px; 
+}
+
+/* Optional styling to make the figure wrapper look clean */
+.figure {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  padding: 12px;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+.fnote {
+  font-size: 0.85rem;
+  color: #666;
+  text-align: center;
+  font-style: italic;
+}

@@ -9,13 +9,14 @@ const LINKS = {
   github: "https://github.com/Harshit-singh15",
   email: "harshitsunita2006@gmail.com",
   phone: "+918920794974",
+  resume: "./resume.pdf"
 
   // One repo link per project. Leave as "#" until the repo is public.
   projects: {
     "lcr-benchmarking":         "https://github.com/Harshit-singh15/LCR_Project",
     "drone-simulation":         "#",
     "road-safety-index":        "#",
-    "matchmaking-optimization": "https://github.com/Harshit-singh15/project_matchmaking",
+    "matchmaking-optimization": "",
     "tb-treatment-prediction":  "#",
     "copula-risk-model":        "#",
     "population-growth-model":  "#",
